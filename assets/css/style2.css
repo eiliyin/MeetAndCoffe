@@ -1,0 +1,106 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    ;
+}
+
+.icono {
+    width: 2rem;
+    padding-left: 94px;
+}
+
+.icono svg {
+    fill: #ffffff;
+}
+
+.inline {
+    margin-left: 34px;
+    display: inline-block;
+    vertical-align: middle;
+
+
+}
+
+.dark {
+    text-align: start;
+    background-color: black;
+    padding: 15px 0px;
+}
+
+.white {
+    color: white;
+    text-decoration: none;
+
+}
+
+.hero-section {
+
+    background-image: url(../img/simposio-vegan.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    text-shadow: 0px 3px 6px black;
+    color: white;
+    height: 565px;
+
+}
+
+.center {
+    text-align: center;
+    margin-bottom: 120px;
+}
+
+.orden {
+    /* background-color: aquamarine; */
+    /* margin-left: 310px; */
+    padding-left: 310px;
+    padding-right: 310px;
+    text-align: left;
+}
+
+.orden h1 {
+    padding-top: 56px;
+    padding-bottom: 30px;
+    font: normal normal normal 25px Open Sans;
+    letter-spacing: 0.1px;
+    color: #000F08;
+    opacity: 1;
+}
+
+.orden p {
+
+    padding: 20px 0px;
+    text-align: justify;
+    font: normal normal normal 25px/34px open sans sans serif;
+    letter-spacing: 0.5px;
+    color: #000F08;
+    opacity: 1;
+}
+
+
+
+
+.orden h3 {
+    padding-top: 56px;
+    padding-bottom: 30px;
+    font: normal normal normal 25px Open Sans;
+    letter-spacing: 0.1px;
+    color: #000F08;
+    opacity: 1;
+}
+
+.oscuro {
+    background-color: black;
+    text-align: center;
+    padding: 50px;
+}
+
+.blanco {
+
+    color: white;
+    padding: 10px;
+}
+
+footer p{
+    font: normal normal normal 25px/34px Open Sans serif;
+}

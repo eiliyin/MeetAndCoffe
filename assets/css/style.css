@@ -1,0 +1,234 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+
+.icono {
+    width: 2rem;
+    padding-left: 94px;
+}
+
+.icono svg {
+    fill: #ffffff;
+}
+
+.inline {
+    margin-left: 34px;
+    display: inline-block;
+    vertical-align: middle;
+
+
+}
+
+.dark {
+    text-align: start;
+    background-color: black;
+    padding: 15px 0px;
+}
+
+.white {
+    color: white;
+    text-decoration: none;
+
+}
+
+.hero-section {
+
+    background-image: url(../img/bg-hero.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    text-shadow: 0px 3px 6px black;
+    color: white;
+    height: 422px;
+
+}
+
+.hero-section h1 {
+
+    padding-left: 300px;
+    padding-top: 72px;
+    padding-right: 130px;
+    text-align: right;
+    font: normal normal 800 48px/82px Open Sans;
+    letter-spacing: 1.5px;
+    color: #FFFFFF;
+    text-shadow: 0px 3px 6px #00000080;
+    opacity: 1;
+
+}
+
+.hero-section .subtitulo {
+
+    margin-left: 515px;
+    text-align: center;
+    font-size: 40px;
+    font-weight: lighter;
+}
+
+#ubicacion {
+
+    text-align: center;
+    padding-left: 300px;
+    padding-bottom: 100px;
+}
+
+#ubicacion .foto {
+    margin-top: 50px;
+    margin-right: 250px;
+}
+
+#ubicacion h2 {
+    margin-top: 18px;
+    margin-right: 250px;
+
+    font: normal normal bold 40px/61px Open Sans;
+    letter-spacing: 0.9px;
+    color: #000F08;
+    opacity: 1;
+}
+
+#ubicacion p {
+    margin-top: 18px;
+    margin-right: 250px;
+    font-size: xx-large;
+    letter-spacing: 0.5px;
+    color: #000F08;
+    opacity: 1;
+}
+
+
+
+.sweet-brown {
+    background: #a4452c;
+    padding: 70px 200px;
+    color: white;
+}
+
+.sweet-brown .centrado {
+    /* width: 800px; */
+    margin: auto;
+}
+
+.centrado img {
+    width: 25%;
+    padding-left: 200px;
+}
+
+.centrado .charla-texto {
+    width: 50%;
+    margin-left: 4%;
+}
+
+.centrado img,
+.charla-texto {
+    display: inline-block;
+    vertical-align: top;
+}
+
+
+.centrado h2 {
+
+
+    text-align: left;
+    font: normal normal bold 45px/61px Open Sans;
+    letter-spacing: 0.9px;
+    color: #FFFFFF;
+    opacity: 1;
+
+}
+
+.centrado h3 {
+
+    text-align: left;
+    font: normal normal bold 40px/55px Open Sans;
+    letter-spacing: 0.8px;
+    color: #FFFFFF;
+    opacity: 1;
+}
+
+.centrado h4 {
+
+
+    text-align: justify;
+    font: italic normal normal 33px/45px Open Sans;
+    letter-spacing: 0.66px;
+    color: #FFFFFF;
+    opacity: 1;
+}
+
+.centrado h5 {
+
+    text-align: justify;
+    font: italic normal lighter 18px/27px Open Sans;
+    letter-spacing: 0.4px;
+    color: #FFFFFF;
+    opacity: 1;
+}
+
+.centrado p {
+
+    /* margin-top: 50px; */
+    text-align: justify;
+    font: italic normal normal 22px/34px Open Sans;
+    letter-spacing: 0.4px;
+    color: #FFFFFF;
+    opacity: 1;
+}
+
+#eventos {
+    text-align: center;
+    
+}
+.hache {
+    margin: 50px 0px;
+    font: normal normal bold 45px/61px Open Sans;
+    color: #000F08;
+    opacity: 1;
+}
+
+#eventos a{
+    text-decoration: none;
+}
+
+#eventos h3 {
+    padding-top: 30px;
+    text-align: center;
+    font: normal normal 400 35px/47px Open Sans;
+    color: #000F08;
+    opacity: 1;
+}
+
+
+
+.evento {
+    /* margin: 30px; */
+    display: inline-block;
+    margin-bottom: 100px;
+    
+}
+
+.evento-a {
+    float: left;
+    padding-left: 100px;
+    
+    
+}
+
+.evento-c {
+    float: right;
+    padding-right: 100px;
+}
+
+.oscuro {
+    background-color: black;
+    text-align: center;
+    padding: 50px;
+}
+
+.blanco {
+
+    color: white;
+    padding: 10px;
+}
